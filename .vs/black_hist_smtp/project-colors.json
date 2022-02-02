@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e1cea0a7-ed55-46fb-82f7-d1f832dec9ae": {
+      "ProjectGuid": "e1cea0a7-ed55-46fb-82f7-d1f832dec9ae",
+      "DisplayName": "black_hist_smtp",
+      "ColorIndex": 0
+    },
+    "367100fd-c88c-483c-8dd7-94ffc8db6c67": {
+      "ProjectGuid": "367100fd-c88c-483c-8dd7-94ffc8db6c67",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
